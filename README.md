@@ -1,6 +1,6 @@
 # Arc's Scribles
 
-Arc's Scribles is a simple, responsive blog layout created using Bootstrap 5. It showcases blog posts as cards with images, titles, and short descriptions, wrapped in a clean and cozy design.
+Arc's Scribles is a simple, responsive blog layout created using Bootstrap 5. It showcases blog posts as cards with images, titles, and short descriptions, wrapped in a cozy design.
 
 ## Features
 
@@ -11,8 +11,6 @@ Arc's Scribles is a simple, responsive blog layout created using Bootstrap 5. It
 
 ## Screenshots
 
-![Desktop view](.png)  
-*Desktop layout preview*
+![Desktop view](SS8.png)  
 
-![Mobile view](screenshot-mobile.png)  
-*Mobile layout preview*
+
